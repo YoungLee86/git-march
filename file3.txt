@@ -1,0 +1,3 @@
+this is the third file.
+
+try out the function of running one commit by submitting multiple files.
