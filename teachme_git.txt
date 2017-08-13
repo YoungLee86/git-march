@@ -3,3 +3,4 @@ If you have any question, feel free to drop me a e-mail.
 Thank you.
 Git is a version control system.
 add one more line with the creation of the LICENSE file.
+git tracks changes.
